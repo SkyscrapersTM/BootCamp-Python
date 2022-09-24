@@ -1,0 +1,13 @@
+====================================
+¿Qué es un Software?
+--------------------
+Estructura de datos que parte de un problema
+====================================
+Enteder el problema que se quiera dar solución
+
+====================================
+
+quit()
+
+=====================
+mkdir 'nombre de la carpeta a crear'
